@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "283376106620",
+    "project_id": "movie-3f380",
+    "storage_bucket": "movie-3f380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283376106620:android:b0ee78d01d4958b2869df9",
+        "android_client_info": {
+          "package_name": "com.moviestaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283376106620-eass1b31j5cn7bcq8g7rnolftnlbtljp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC7Em5WtV16fq-FOgEs1oLVvNWtXN6JcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283376106620-eass1b31j5cn7bcq8g7rnolftnlbtljp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283376106620:android:1d1aad9e9e99d8ed869df9",
+        "android_client_info": {
+          "package_name": "com.moviestaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283376106620-8fldvdbosul52l6ummo5uof7c5lasslp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moviestaner",
+            "certificate_hash": "ff8ceefe15bbb8ae7ee102b02f4241f0309abef8"
+          }
+        },
+        {
+          "client_id": "283376106620-risecr1as7splfqo76epiponsunpfrvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moviestaner",
+            "certificate_hash": "65c6acd30ceffac1c19db82a927d8cedfe0485e1"
+          }
+        },
+        {
+          "client_id": "283376106620-mlg2gns1mc47jfa6ndotiv3rrb68u1ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moviestaner",
+            "certificate_hash": "38c639f8aba1b8238e57917cef1428ddf4a15d42"
+          }
+        },
+        {
+          "client_id": "283376106620-eass1b31j5cn7bcq8g7rnolftnlbtljp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC7Em5WtV16fq-FOgEs1oLVvNWtXN6JcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283376106620-eass1b31j5cn7bcq8g7rnolftnlbtljp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8053683961185907~4619638681"
+    }
+  ],
+  "configuration_version": "1"
+}
